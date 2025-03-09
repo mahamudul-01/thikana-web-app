@@ -1,0 +1,143 @@
+[
+    {
+      "title": "Luxury Apartment in Downtown",
+      "price": 250000,
+      "type": "buy",
+      "full_location": "123 Main St, New York, NY",
+      "area_sq_ft": 1200,
+      "home_details": {
+        "bed": 3,
+        "bath": 2,
+        "balcony": 1
+      },
+      "category": "apartment",
+      "image": "https://source.unsplash.com/600x400/?apartment,building"
+    },
+    {
+      "title": "Cozy Family House",
+      "price": 1800,
+      "type": "rent",
+      "full_location": "45 Maple Ave, Los Angeles, CA",
+      "area_sq_ft": 1500,
+      "home_details": {
+        "bed": 4,
+        "bath": 3,
+        "balcony": 2
+      },
+      "category": "house",
+      "image": "https://source.unsplash.com/600x400/?house,home"
+    },
+    {
+      "title": "Modern Studio Apartment",
+      "price": 1300,
+      "type": "rent",
+      "full_location": "789 Elm St, Chicago, IL",
+      "area_sq_ft": 700,
+      "home_details": {
+        "bed": 1,
+        "bath": 1,
+        "balcony": 0
+      },
+      "category": "apartment",
+      "image": "https://source.unsplash.com/600x400/?studio,apartment"
+    },
+    {
+      "title": "Spacious Independent House",
+      "price": 350000,
+      "type": "buy",
+      "full_location": "222 Oak Dr, Houston, TX",
+      "area_sq_ft": 2100,
+      "home_details": {
+        "bed": 5,
+        "bath": 4,
+        "balcony": 2
+      },
+      "category": "independent house",
+      "image": "https://source.unsplash.com/600x400/?house,villa"
+    },
+    {
+      "title": "Penthouse with City View",
+      "price": 4500,
+      "type": "rent",
+      "full_location": "777 Skyline Rd, Miami, FL",
+      "area_sq_ft": 2000,
+      "home_details": {
+        "bed": 3,
+        "bath": 3,
+        "balcony": 2
+      },
+      "category": "apartment",
+      "image": "https://source.unsplash.com/600x400/?penthouse,building"
+    },
+    {
+      "title": "Affordable Condo",
+      "price": 125000,
+      "type": "buy",
+      "full_location": "555 Lakeview St, Orlando, FL",
+      "area_sq_ft": 950,
+      "home_details": {
+        "bed": 2,
+        "bath": 1,
+        "balcony": 1
+      },
+      "category": "condo",
+      "image": "https://source.unsplash.com/600x400/?condo,apartment"
+    },
+    {
+      "title": "Elegant Townhouse",
+      "price": 2800,
+      "type": "rent",
+      "full_location": "666 Pine Ave, Boston, MA",
+      "area_sq_ft": 1800,
+      "home_details": {
+        "bed": 3,
+        "bath": 2,
+        "balcony": 1
+      },
+      "category": "townhouse",
+      "image": "https://source.unsplash.com/600x400/?townhouse,building"
+    },
+    {
+      "title": "Minimalist Apartment",
+      "price": 150000,
+      "type": "buy",
+      "full_location": "333 River Rd, San Francisco, CA",
+      "area_sq_ft": 850,
+      "home_details": {
+        "bed": 2,
+        "bath": 2,
+        "balcony": 1
+      },
+      "category": "apartment",
+      "image": "https://source.unsplash.com/600x400/?minimalist,apartment"
+    },
+    {
+      "title": "Classic Suburban Home",
+      "price": 320000,
+      "type": "buy",
+      "full_location": "777 Willow Ln, Seattle, WA",
+      "area_sq_ft": 2400,
+      "home_details": {
+        "bed": 5,
+        "bath": 3,
+        "balcony": 2
+      },
+      "category": "house",
+      "image": "https://source.unsplash.com/600x400/?suburban,house"
+    },
+    {
+      "title": "Budget-Friendly Rental Apartment",
+      "price": 1100,
+      "type": "rent",
+      "full_location": "999 Cedar St, Austin, TX",
+      "area_sq_ft": 600,
+      "home_details": {
+        "bed": 1,
+        "bath": 1,
+        "balcony": 0
+      },
+      "category": "apartment",
+      "image": "https://source.unsplash.com/600x400/?apartment,cheap"
+    }
+  ]
+  

@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="max-w-7xl mx-auto px-6 mt-10 ">
       <nav>
-        <div className="flex justify-between items-center font-semibold">
+        <div className="flex justify-between items-center font-medium">
           <div className="flex justify-between items-center space-x-6">
             <div>
               <NavLink to='/'>
@@ -35,10 +35,10 @@ const Header = () => {
             </ul>
           </div>
           <div className="space-x-4">
-            <button className="bg-[#055611] px-6 py-2 rounded-full text-white">
+            <button className="bg-[#0C7C1D] px-6 py-2 rounded-full text-white">
               Post Property <span className="text-black bg-white text-sm px-2 py-1 rounded-sm">Free</span>
             </button>
-            <button className="text-[#055611]">Sign Up / Register</button>
+            <button className="text-[#0C7C1D]">Sign Up / Register</button>
           </div>
         </div>
       </nav>
