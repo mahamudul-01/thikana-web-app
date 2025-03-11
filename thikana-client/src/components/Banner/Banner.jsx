@@ -27,9 +27,9 @@ const Banner = () => {
               Buy
             </button>
           </div>
-          <div className="flex justify-center w-full gap-6  ">
+          <div className="flex justify-center gap-6">
            <div className=" mt-6 ">
-           <select className="select   rounded-2xl w-52 select-success">
+           <select className="select select-success  rounded-2xl w-40  outline-none ">
               <option disabled selected>
              Location
               </option>
@@ -44,7 +44,7 @@ const Banner = () => {
             </select>
            </div>
            <div className=" mt-6 ">
-           <select className="select   rounded-2xl w-52 select-success">
+           <select className="select select-success w-40  rounded-2xl   outline-none ">
               <option disabled selected>
              Category
               </option>
@@ -59,7 +59,7 @@ const Banner = () => {
             </select>
            </div>
            <div className=" mt-6 ">
-           <select className="select   rounded-2xl w-52 select-success">
+           <select className="select select-success w-40  rounded-2xl   outline-none ">
               <option disabled selected>
              Type
               </option>
@@ -74,7 +74,7 @@ const Banner = () => {
             </select>
            </div>
            <div className=" mt-6 ">
-           <select className="select   rounded-2xl w-52 select-success">
+           <select className="select select-success w-40 rounded-2xl  outline-none ">
               <option disabled selected>
              Status
               </option>
@@ -88,14 +88,14 @@ const Banner = () => {
               <option>Python</option>
             </select>
            </div>
-         
           </div>
-          <div className="flex justify-center">
-          <button className="w-1/4 mt-6  rounded-2xl  py-2 text-base bg-[#0C7C1D]  text-white ">
-              Find
-          </button>
-          </div>
+          
         </div>
+        <div className="flex justify-center mt-6">
+          <button className="border border-[#0C7C1D]  w-80 rounded-xl  py-2 text-base bg-[#0C7C1D]  text-white ">
+              Find
+            </button>
+          </div>
       </div>
     </div>
   );
